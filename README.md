@@ -1,4 +1,4 @@
-### Hi! 😎👍👍
+### Hi! 🙂
 ##
 
 - 🔭 I’m currently studying computer engineering at University of Brasília.
