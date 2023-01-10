@@ -1,4 +1,4 @@
-### Hi!
+### Hi! 😎👍👍
 ##
 
 - 🔭 I’m currently studying computer engineering at University of Brasília.
@@ -13,15 +13,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmendoim&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="right">
+  <img alt="peanuts" scr="https://user-images.githubusercontent.com/100967260/211661398-edd60007-875e-465a-aba4-281a4b16d5ec.jpg" height="1000px" weight="800px">
+</div>
+
 ##
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matheus_mendoim)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_mendoim/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-fillipe-de-souza-mendes-743b881b1/)
-
-<div align right>
-  <img scr="https://user-images.githubusercontent.com/100967260/211653213-e9931d01-492b-4c11-ac26-ed5b1a54fe06.jpg"
-</div>
   
 ##
 <div style="display: inline_block">
