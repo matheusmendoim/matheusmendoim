@@ -28,5 +28,4 @@
 </div><br/>
 
 ##
-
-![charliebrown](https://user-images.githubusercontent.com/100967260/211663169-ed702178-fbd4-4050-992e-3c6673345973.jpeg)
+![crack!](https://user-images.githubusercontent.com/100967260/211827387-9762385c-3bf7-42cc-a42d-c903b8ff985d.gif)
