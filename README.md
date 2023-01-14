@@ -11,7 +11,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=matheusmendoim&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusmendoim&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusmendoim&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusfillipe.mfsm@gmail.com)
