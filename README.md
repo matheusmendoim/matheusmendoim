@@ -1,8 +1,8 @@
 ### Hi! 🙂
 ##
 
-- 🔭 I’m currently studying computer engineering at University of Brasília.
-- 🌱 I’m currently learning python and web development.
+- 🔭 I’m currently studying computer engineering at Universidade de Brasília (University of Brasilia, Brazil).
+- 🌱 I’m currently learning python, web development and machine learning.
 - 📫 You can contact me at matheusfillipe.mfsm@gmail.com.
 - 😄 Pronouns: he/him.
 - 🥜 I really like peanuts.
