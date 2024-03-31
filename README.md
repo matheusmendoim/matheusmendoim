@@ -1,11 +1,9 @@
-### Hi! I'm Matheus 🙂
+### hi! i'm Matheus :)
 ##
 
-- 🔭 I’m currently studying computer engineering at Universidade de Brasília (University of Brasilia, Brazil).
-- 🌱 I’m currently learning c++, python, web development and machine learning.
-- 📫 You can contact me at matheusfillipe.mfsm@gmail.com.
-- 😄 Pronouns: he/him.
-- 🥜 I really like peanuts.
+- 🔭 i’m currently studying computer engineering at Universidade de Brasília (UnB).
+- 🌱 i’m currently learning python, AI and machine learning.
+- 📫 you can contact me at matheusfillipe.mfsm@gmail.com
 
 ##
 
