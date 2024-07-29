@@ -2,7 +2,6 @@
 ##
 
 - 🔭 i’m currently studying computer engineering at Universidade de Brasília (UnB).
-- 🌱 i’m currently learning python, AI and data analysis.
 - 📫 you can contact me at matheusfillipe.mfsm@gmail.com
 
 ##
